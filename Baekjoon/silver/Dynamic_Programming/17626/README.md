@@ -1,4 +1,5 @@
-# 🛠️ [17626 Four Squares]([https://www.acmicpc.net/problem/17626](https://www.acmicpc.net/problem/17626))
+# 🛠️ [17626 Four Squares](https://www.acmicpc.net/problem/17626)
+<a href="https://www.acmicpc.net/problem/17626" target="_blank">[17626 Four Squares]</a>
 <br>
 
 ## 📖문제
