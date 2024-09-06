@@ -1,4 +1,4 @@
-# 🛠️ 17626 Four Squares
+# 🛠️ [17626 Four Squares](http://www.acmicpc.net/problem/17626)
 <br>
 
 ## 📖문제
