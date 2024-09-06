@@ -1,4 +1,4 @@
-# 🛠️ 1010 다리 놓기
+# 🛠️ [1010 다리 놓기](http://www.acmicpc.net/problem/1010)
 <br>
 
 ## 📖문제
