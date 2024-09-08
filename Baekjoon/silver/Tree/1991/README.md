@@ -26,3 +26,24 @@
 첫째 줄에 전위 순회, 둘째 줄에 중위 순회, 셋째 줄에 후위 순회한 결과를 출력한다. 각 줄에 N개의 알파벳을 공백 없이 출력하면 된다.
 
 <br><br>
+
+<details>
+  <summary>🎈</summary>
+  <br>
+
+함수 내에서 전역 변수 사용 시
+
+``` python
+def pre_order(node, list):                  
+    global result                           
+    result = result + node
+
+   ...중략...
+```
+
+위와 같이 <code>global</code> 사용
+
+  
+</details>
+
+<br><br>
