@@ -1,6 +1,6 @@
 <br>
 
-# 🛠️ [9655 돌 게임](http://www.acmicpc.net/problem/9655)
+# 🛠️  [9655 돌 게임](http://www.acmicpc.net/problem/9655) <img height="27px" width="27px" src="https://static.solved.ac/tier_small/6.svg"/>
 <br>
 
 ## 📖문제
