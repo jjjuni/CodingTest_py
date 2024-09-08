@@ -82,28 +82,3 @@ while len(s) > index:
         break
 
 print(result)
-
-
-
-
-# for i in range(len(s)):
-
-#     if (s[i] == ')' or s[i] == ']') and len(Stack) <= 0:
-#         print("0")
-#         break
-
-#     if s[i] == '(':
-#         Stack.append(2)
-        
-#     elif s[i] == '[':
-#         Stack.append(3)
-        
-#     elif s[i] == ')':
-#         if len(Stack) > 1 and result != 0:
-#             result *= 2
-#         else:
-#             result += 2
-    
-
-
-
