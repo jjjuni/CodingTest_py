@@ -1,32 +1,21 @@
-flag = 0
-index = 0
+def solution(s):
+    s = list(s)
+    stack = []
 
-def solution(T, flag, index):
-    if flag < 0:                # '('보다 ')'가 먼저 나올 경우 flag는 -1이 됨 -> 이 경우 즉시 종료 후 false 반환
-        return
+    for i in range(len(s)):
+
+        if s[i] == '(':             # '('로 괄호를 열었을 시 
+            stack.append('0')       # 스택에 push
+
+        elif s[i] == ')':           # ')'로 괄호를 닫았을 시
+            if len(stack) <= 0:          # '('보다 ')'가 먼저 나올 경우 flag는 -1이 됨 
+                return False            # -> 이 경우 즉시 종료 후 false
+            else:                   
+                stack.pop()         # 스택에서 pop
+
+    if len(stack) == 0:
+        return True
+    else:
+        return False
     
-    elif T[index] == '(':       # '('로 괄호를 열었을 시 flag++ 
-        flag += 1
-
-    elif T[index] == ')':       # ')'로 괄호를 닫았을 시 flag--
-        flag -= 1
-
-    index += 1
-
-    if index >= len(T):
-        solution(T, flag, index)
-
-    return flag
-
-T = input()
-
-T = list(T)
-
-flag = solution(T, flag, index)
-
-print(flag)
-
-if flag == 0:
-    print("true")
-else:
-    print("false")
+print(solution("()()(("))
