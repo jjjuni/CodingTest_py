@@ -1,6 +1,6 @@
 <br>
 
-# 🛠️ [1010 다리 놓기](http://www.acmicpc.net/problem/1010)
+# <img height="27px" width="27px" src="https://static.solved.ac/tier_small/6.svg"/> [1010 다리 놓기](http://www.acmicpc.net/problem/1010)
 <br>
 
 ## 📖문제
