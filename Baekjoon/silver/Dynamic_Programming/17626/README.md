@@ -1,6 +1,6 @@
 <br>
 
-# 🛠️ [17626 Four Squares](http://www.acmicpc.net/problem/17626)
+# <img height="27px" width="27px" src="https://static.solved.ac/tier_small/8.svg"/> [17626 Four Squares](http://www.acmicpc.net/problem/17626)
 <br>
 
 ## 📖문제
