@@ -11,7 +11,8 @@ B = sys.stdin.readline().split()
 
 for i in range(N):
     if A[i] == 0:
-        Q = deque = deque()
+        Q = deque()
+        queuestack.append(deque)
     elif A[i] == 1:
         stack = []
         queuestack.append(stack)
