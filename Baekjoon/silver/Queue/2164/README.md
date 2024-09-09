@@ -32,7 +32,9 @@ N이 주어졌을 때, 제일 마지막에 남게 되는 카드를 구하는 프
   
   끝자리에 요소를 추가하는 <code>append()</code> 와 달리 <code>pop(n)</code> 은 탐색 알고리즘이 포함되어 시간복잡도가 O(n)이다
 
-  따라서 
+  <br>
+  
+  따라서, 
   ```python
   from collections import deque
   import sys
@@ -51,9 +53,9 @@ N이 주어졌을 때, 제일 마지막에 남게 되는 카드를 구하는 프
   <br><br>
 
   ## 🪄참고자료
-  1. [Python list 연산에 따른 시간 복잡도](https://hyun-am-coding.tistory.com/entry/Python-list-%EC%97%B0%EC%82%B0%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)</li>
+  1. [Python list 연산에 따른 시간 복잡도](https://hyun-am-coding.tistory.com/entry/Python-list-%EC%97%B0%EC%82%B0%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
   
-  2. [[Python] Dequeue 사용하기](https://ooeunz.tistory.com/31)</li>
+  2. [[Python] Dequeue 사용하기](https://ooeunz.tistory.com/31)
   
 </details>
 
