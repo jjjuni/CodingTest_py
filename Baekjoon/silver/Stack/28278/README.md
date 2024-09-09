@@ -53,9 +53,9 @@
   <br>
 
 ## 🪄참고 자료
-  [[Python 문법] 파이썬 입력 받기(sys.stdin.readline)](https://velog.io/@yeseolee/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5-%EC%A0%95%EB%A6%ACsys.stdin.readline) 
-  <br>
-  [[Python] input보다 sys.stdin.readline의 처리 속도가 빠른 이유는?](https://green-leaves-tree.tistory.com/12)
+1. [[Python 문법] 파이썬 입력 받기(sys.stdin.readline)](https://velog.io/@yeseolee/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5-%EC%A0%95%EB%A6%ACsys.stdin.readline)
+
+2. [[Python] input보다 sys.stdin.readline의 처리 속도가 빠른 이유는?](https://green-leaves-tree.tistory.com/12)
   
 </details>
 
