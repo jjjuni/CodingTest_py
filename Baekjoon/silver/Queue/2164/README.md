@@ -1,6 +1,6 @@
 <br>
 
-# 🛠️ [2164 카드2](http://www.acmicpc.net/problem/2164) <img height="27px" width="27px" src="https://static.solved.ac/tier_small/7.svg"/>
+# 🛠️ [2164 카드2](http://www.acmicpc.net/problem/2164) <img height="27px" width="27px" src="https://static.solved.ac/tier_small/7.svg"/> 
 
 <br>
 
