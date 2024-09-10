@@ -1,4 +1,4 @@
-# CodingTest_py
+# 문제 목록
 
 <br>
 
@@ -43,3 +43,10 @@
 <br>
 
 ## 💻프로그래머스
+
+### 그래프
+| 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | Level2 | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Queue%2CStack) | 💡 |
+
+<br>
