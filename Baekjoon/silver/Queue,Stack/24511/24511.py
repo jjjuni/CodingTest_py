@@ -1,7 +1,7 @@
 import sys
 from collections import deque
 
-str = ""
+result = []
 
 N = int(sys.stdin.readline())
 A = sys.stdin.readline().split()
@@ -19,10 +19,6 @@ C = sys.stdin.readline().split()
 for i in range(M):
     queuestack.append(C[i])
     tmp = queuestack.popleft()
+    result.append(tmp)
 
-    if i != 0:
-        str += (" " + tmp)
-    else:
-        str = tmp
-
-print(str)
+print(" ".join(result))
