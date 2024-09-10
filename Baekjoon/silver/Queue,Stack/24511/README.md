@@ -7,26 +7,37 @@
 ## 📖문제
 한가롭게 방학에 놀고 있던 도현이는 갑자기 재밌는 자료구조를 생각해냈다. 그 자료구조의 이름은 queuestack이다.
 
-queuestack의 구조는 다음과 같다. 1번, 2번, ... , N번의 자료구조(queue 혹은 stack)가 나열되어있으며, 각각의 자료구조에는 한 개의 원소가 들어있다.
+queuestack의 구조는 다음과 같다. 
+$1$번, 
+$2$번, ... , 
+$N$번의 자료구조(queue 혹은 stack)가 나열되어있으며, 각각의 자료구조에는 한 개의 원소가 들어있다.
 
 queuestack의 작동은 다음과 같다.
-
  
-<li>x<sub>0</sub>을 입력받는다.</li>
- 
-<li>x<sub>0</sub>을 1번 자료구조에 삽입한 뒤 1번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 x_1이라 한다.</li>
- 
-<li>x<sub>1</sub>을 2번 자료구조에 삽입한 뒤 2번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 x<sub>2</sub>이라 한다.</li>
-
+<li>$x_0$을 입력받는다.</li>
+<li>$x_0$을 
+$1$번 자료구조에 삽입한 뒤 
+$1$번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 
+$x_1$이라 한다.</li>
+<li>$x_1$을 
+$2$번 자료구조에 삽입한 뒤 
+$2$번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 
+$x_2$이라 한다.</li>
 <li>...</li>
- 
-<li>x<sub>N-1</sub>을 N번 자료구조에 삽입한 뒤 N번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 x<sub>N</sub>이라 한다.</li>
- 
-<li>x<sub>N</sub>을 리턴한다.</li>
-도현이는 길이 M의 수열 C를 가져와서 수열의 원소를 앞에서부터 차례대로 queuestack에 삽입할 것이다. 이전에 삽입한 결과는 남아 있다. (예제 1 참고)
+<li>$x_{N-1}$을 
+$N$번 자료구조에 삽입한 뒤 
+$N$번 자료구조에서 원소를 pop한다. 그때 pop된 원소를 
+$x_N$이라 한다.</li>
+<li>$x_N$을 리턴한다.</li>
+
+<br>
+
+도현이는 길이 
+$M$의 수열 
+$C$를 가져와서 수열의 원소를 앞에서부터 차례대로 queuestack에 삽입할 것이다. 이전에 삽입한 결과는 남아 있다. 
+(예제 $1$ 참고)
 
 queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리턴값을 출력하는 프로그램을 작성해보자.
-
 <br>
 
 ## ⌨️입력
@@ -69,31 +80,25 @@ $C$의 원소를 차례대로 queuestack에 삽입했을 때의 리턴값을 공
 
 <details>
   <summary>🎈</summary>
+<br>
+
+1. <code>queuestack</code> 안에 있는 <code>stack</code>은 사실상 계산하지 않아도 됨 (<code>stack</code>은 <code>push</code> 한 값과 <code>pop</code> 한 값이 같기 때문) 
+   
+2. 스택을 배제한 <code>queuestack</code> 에는 <code>queue</code> 만 남고 이 <code>queue</code> 들을 이으면 하나의 큰 <code>queue</code> 가 만들어 짐
+
+3. 하나의 큰 <code>queue</code> 에 수열 $C$의 원소를 하나씩 <code>push</code> 하고 <code>pop</code> 을 진행
+
+<br>
+
+각각 <code>pop</code>한 값을 <code>result</code>리스트에 저장하고 <code>join</code>함수를 사용하여 한번에 출력
+
+<br>
+
+## 🪄참고자료
+[[python] 파이썬 join 함수 정리 및 예제 (문자열 합치기)](https://blockdmask.tistory.com/468)
   <br>
 
-  <code>input()</code> 함수는 한글자씩 버퍼에 담는과정과 문자열을 변환하는 과정때문에 속도가 느려짐
-  
-  -> 사용 시 시간 초과
 
-  ```python
-    import sys
-    N = int(sys.stdin.readline())              # input() 대신 sys.stdin.readline() 사용
-    Stack = []
-
-    for i in range(N):
-    option = sys.stdin.readline().strip()      # input() 대신 sys.stdin.readline() 사용
-  ```
-
-  단, <code>sys.stdin.readline()</code> 사용 시 \n과 같은 개행문자도 포함하기 때문에 int() 또는 .strip()과 같은 처리가 필요
-
-  <br>
-
-## 🪄참고 자료
-1. [[Python 문법] 파이썬 입력 받기(sys.stdin.readline)](https://velog.io/@yeseolee/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5-%EC%A0%95%EB%A6%ACsys.stdin.readline)
-
-2. [[Python] input보다 sys.stdin.readline의 처리 속도가 빠른 이유는?](https://green-leaves-tree.tistory.com/12)
-
-3. [Python - String strip(), rstrip(), lstrip() 사용 방법](https://codechacha.com/ko/python-string-strip/)
 </details>
 
 <br><br>
