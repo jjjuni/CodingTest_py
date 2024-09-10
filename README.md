@@ -24,6 +24,7 @@
 | 01 | [9012](http://www.acmicpc.net/problem/9012) | [괄호](http://www.acmicpc.net/problem/9012) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Queue%2CStack/9012) | 💡 |
 | 02 | [28278](http://www.acmicpc.net/problem/28278) | [스택 2](http://www.acmicpc.net/problem/28278) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Queue%2CStack/28278) | 💡 |
 | 03 | [24511](http://www.acmicpc.net/problem/24511) | [queuestack](http://www.acmicpc.net/problem/24511) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Queue%2CStack/24511) | 💡 |
+| 04 | [2504](http://www.acmicpc.net/problem/2504) | [괄호의 값](http://www.acmicpc.net/problem/2504) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/Queue%2CStack) | 💡 |
 
 <br>
 
