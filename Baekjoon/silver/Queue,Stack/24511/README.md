@@ -96,8 +96,7 @@ $C$의 원소를 차례대로 queuestack에 삽입했을 때의 리턴값을 공
 
 ## 🪄참고자료
 [[python] 파이썬 join 함수 정리 및 예제 (문자열 합치기)](https://blockdmask.tistory.com/468)
-  <br>
-
+<br>
 
 </details>
 
