@@ -33,8 +33,9 @@
 ### 🌲트리
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | [1991](http://www.acmicpc.net/problem/1991) | [트리 순회](http://www.acmicpc.net/problem/1991) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Tree/1991) | 💡 |
-| 01 | [11725](http://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](http://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Tree/11725) | 💡 |
+| 00 | [11725](http://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](http://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Tree/11725) | 💡 |
+| 01 | [1991](http://www.acmicpc.net/problem/1991) | [트리 순회](http://www.acmicpc.net/problem/1991) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Tree/1991) | 💡 |
+
 
 <br>
 
