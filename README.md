@@ -44,6 +44,12 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [5567](http://www.acmicpc.net/problem/5567) | [결혼식](http://www.acmicpc.net/problem/5567) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Graph/5567) | 💡 |
 
+<br>
+
+>### 🤑그리디
+| 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [14916](http://www.acmicpc.net/problem/14916) | [거스름돈](http://www.acmicpc.net/problem/14916) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/14916/README.md) | 💡 |
 
 
 <br>
