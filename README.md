@@ -49,7 +49,9 @@
 >### 🤑그리디
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | [14916](http://www.acmicpc.net/problem/14916) | [거스름돈](http://www.acmicpc.net/problem/14916) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/14916/README.md) | 💡 |
+| 00 | [14916](http://www.acmicpc.net/problem/14916) | [거스름돈](http://www.acmicpc.net/problem/14916) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/14916) | 💡 |
+
+| 01 | [2217](http://www.acmicpc.net/problem/2217) | [거스름돈](http://www.acmicpc.net/problem/2217) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/2217) | 💡 |
 
 
 <br>
