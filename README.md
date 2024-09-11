@@ -14,7 +14,7 @@
 | 02 | [9655](http://www.acmicpc.net/problem/9655) | [돌 게임](http://www.acmicpc.net/problem/9655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Dynamic_Programming/9655) | 💡 |
 | 03 | [2839](http://www.acmicpc.net/problem/2839) | [설탕 배달](http://www.acmicpc.net/problem/2839) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Dynamic_Programming/2839) | 💡 |
 | 04 | [17626](http://www.acmicpc.net/problem/17626) | [Four Squares](http://www.acmicpc.net/problem/17626) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Dynamic_Programming/17626) | ❌ |
->
+
 <br>
 
 >### 🗂️큐/스택
@@ -52,7 +52,6 @@
 | 00 | [14916](http://www.acmicpc.net/problem/14916) | [거스름돈](http://www.acmicpc.net/problem/14916) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/14916) | 💡 |
 | 01 | [2217](http://www.acmicpc.net/problem/2217) | [로프](http://www.acmicpc.net/problem/2217) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/2217) | 💡 |
 | 02 | [1758](http://www.acmicpc.net/problem/1758) | [알바생 강호](http://www.acmicpc.net/problem/1758) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/1758) | 💡 |
-
 
 <br>
 
