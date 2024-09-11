@@ -1,7 +1,6 @@
 N = int(input())
 
 rope = [None] * N
-
 max = 0
 
 for i in range(N):
