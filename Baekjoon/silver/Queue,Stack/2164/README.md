@@ -35,20 +35,20 @@
   > 
   >
   >따라서, 
-  ```python
-  from collections import deque
-  import sys
-
-  Q = deque = deque()
-
-  ...중략...
-
-  while len(Q) != 1:
-    Q.popleft() 
-    Q.append(Q.popleft())
-
-  ...중략
-  ```
+  >```python
+  >from collections import deque
+  >import sys
+  >
+  >Q = deque = deque()
+  >
+  >...중략...
+  >
+  >while len(Q) != 1:
+  >  Q.popleft() 
+  >  Q.append(Q.popleft())
+  >
+  >...중략
+  >```
   >위와 같이 deque를 사용하여 queue를 이용해야 함
 
   <br><br>
