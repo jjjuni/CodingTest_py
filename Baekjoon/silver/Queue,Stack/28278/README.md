@@ -8,12 +8,12 @@
 >정수를 저장하는 스택을 구현한 다음, 입력으로 주어지는 명령을 처리하는 프로그램을 작성하시오.
 >
 >명령은 총 다섯 가지이다.
-
-<li>1 X: 정수 X를 스택에 넣는다. (1 ≤ X ≤ 100,000)</li>
-<li>2: 스택에 정수가 있다면 맨 위의 정수를 빼고 출력한다. 없다면 -1을 대신 출력한다.</li>
-<li>3: 스택에 들어있는 정수의 개수를 출력한다.</li>
-<li>4: 스택이 비어있으면 1, 아니면 0을 출력한다.</li>
-<li>5: 스택에 정수가 있다면 맨 위의 정수를 출력한다. 없다면 -1을 대신 출력한다.</li> <br>
+>
+><li>1 X: 정수 X를 스택에 넣는다. (1 ≤ X ≤ 100,000)</li>
+><li>2: 스택에 정수가 있다면 맨 위의 정수를 빼고 출력한다. 없다면 -1을 대신 출력한다.</li>
+><li>3: 스택에 들어있는 정수의 개수를 출력한다.</li>
+><li>4: 스택이 비어있으면 1, 아니면 0을 출력한다.</li>
+><li>5: 스택에 정수가 있다면 맨 위의 정수를 출력한다. 없다면 -1을 대신 출력한다.</li> <br>
 
 <br>
 
@@ -38,16 +38,16 @@
   ><code>input()</code> 함수는 한글자씩 버퍼에 담는과정과 문자열을 변환하는 과정때문에 속도가 느려짐
   >
   >-> 사용 시 시간 초과
-
-  ```python
-    import sys
-    N = int(sys.stdin.readline())              # input() 대신 sys.stdin.readline() 사용
-    Stack = []
-
-    for i in range(N):
-    option = sys.stdin.readline().strip()      # input() 대신 sys.stdin.readline() 사용
-  ```
-
+>
+>  ```python
+>    import sys
+>    N = int(sys.stdin.readline())              # input() 대신 sys.stdin.readline() 사용
+>    Stack = []
+>
+>    for i in range(N):
+>    option = sys.stdin.readline().strip()      # input() 대신 sys.stdin.readline() 사용
+>  ```
+>
   >단, <code>sys.stdin.readline()</code> 사용 시 \n과 같은 개행문자도 포함하기 때문에 int() 또는 .strip()과 같은 처리가 필요
 
   <br>
