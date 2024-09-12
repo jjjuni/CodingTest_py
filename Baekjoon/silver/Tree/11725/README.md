@@ -24,12 +24,12 @@
   <br>
 
 >파이썬의 기본 재귀 한계 = 100회
-
-``` python
-import sys
-sys.setrecursionlimit(10**6)
-```
-
+>
+>``` python
+>import sys
+>sys.setrecursionlimit(10**6)
+>```
+>
 >위 코드를 통해 기본 재귀 한계 조정
   
 </details>
