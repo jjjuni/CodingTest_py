@@ -36,9 +36,9 @@
   <br>
   
   >리스트 추출
-  ```python
-    [row[(시작 column):(끝 column)] for row in (리스트이름)[(시작 row):(끝 row)]]
-  ```
+  >```python
+  >  [row[(시작 column):(끝 column)] for row in (리스트이름)[(시작 row):(끝 row)]]
+  >```
 
 ## 🪄참고자료
 >[[Python] 파이썬 2차원 리스트 Slicing / 일부분 선택, 추출하기 ✨](https://programming119.tistory.com/169)
