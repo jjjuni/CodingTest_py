@@ -1,3 +1,5 @@
+import sys
+
 def compare(a, b, c, d):                # 시간표 비교 함수 (안겹치면 True, 겹치면 False 반환)
 
     if a >= d or c >= b:
@@ -5,14 +7,12 @@ def compare(a, b, c, d):                # 시간표 비교 함수 (안겹치면 
     else:
         return False
 
-N = int(input())
-
-flag = False
+N = int(sys.stdin.readline())
 
 inf = [[] for _ in range(N)]
 
 for i in range(N):
-    a, b = map(int, input().split())
+    a, b = map(int, sys.stdin.readline().split())
 
     inf[i].append(a)
     inf[i].append(b)
