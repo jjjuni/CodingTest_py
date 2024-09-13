@@ -55,9 +55,16 @@
 
 <br>
 
+>### ⛓️‍💥분할 정복
+| 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [2630](http://www.acmicpc.net/problem/2630) | [색종이 만들기](http://www.acmicpc.net/problem/2630) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Devide_and_Conquer/2630) | 💡 |
+
+<br>
+
 ## 💻프로그래머스
 
->### 📈그래프
+>### 🗂️큐/스택
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Queue%2CStack) | 💡 |
