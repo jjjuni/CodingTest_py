@@ -71,7 +71,12 @@ $C$의 원소를 차례대로 queuestack에 삽입했을 때의 리턴값을 공
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
 <br>
 
 >1. <code>queuestack</code> 안에 있는 <code>stack</code>은 사실상 계산하지 않아도 됨 (<code>stack</code>은 <code>push</code> 한 값과 <code>pop</code> 한 값이 같기 때문) 
