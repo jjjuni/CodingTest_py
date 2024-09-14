@@ -28,7 +28,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  <summary> 
+  
+  ## 🎈참고
+  </summary>
   <br>
 
 >함수 내에서 전역 변수 사용 시
