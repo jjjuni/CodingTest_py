@@ -1,12 +1,12 @@
 <br>
 
-# 📖문제 목록
+# 📖 문제 목록
 
 <br>
 
-## ✏️백준
+## ✏️ 백준
 
- >### 💭동적 계획
+ >### 💭 동적 계획
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [2748](http://www.acmicpc.net/problem/2748) | [피보나치 수 2](http://www.acmicpc.net/problem/2748) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/Bronze/Dynamic_Programming/2748) | 💡 |
@@ -17,7 +17,7 @@
 
 <br>
 
->### 🗂️큐/스택
+>### 🗂️ 큐/스택
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [10828](http://www.acmicpc.net/problem/10828) | [스택](http://www.acmicpc.net/problem/10828) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Queue%2CStack/10828) | 💡 |
@@ -30,7 +30,7 @@
 
 <br>
 
->### 🌲트리
+>### 🌲 트리
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [11725](http://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](http://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Tree/11725) | 💡 |
@@ -39,37 +39,38 @@
 
 <br>
 
->### 📈그래프
+>### 📈 그래프
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [5567](http://www.acmicpc.net/problem/5567) | [결혼식](http://www.acmicpc.net/problem/5567) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Graph/5567) | 💡 |
 
 <br>
 
->### 🤑그리디
+>### 🤑 그리디
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [14916](http://www.acmicpc.net/problem/14916) | [거스름돈](http://www.acmicpc.net/problem/14916) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/14916) | 💡 |
 | 01 | [2217](http://www.acmicpc.net/problem/2217) | [로프](http://www.acmicpc.net/problem/2217) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Baekjoon/silver/greedy/2217) | 💡 |
 | 02 | [1758](http://www.acmicpc.net/problem/1758) | [알바생 강호](http://www.acmicpc.net/problem/1758) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/1758) | 💡 |
 | 03 | [11047](http://www.acmicpc.net/problem/11047) | [동전 0](http://www.acmicpc.net/problem/11047) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/11047) | 💡 |
-| 04 | [11000](http://www.acmicpc.net/problem/11000) | [강의실 배정](http://www.acmicpc.net/problem/11000) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/11000) | 💡 |
-| 05 | [12904](http://www.acmicpc.net/problem/12904) | [A와 B](http://www.acmicpc.net/problem/12904) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/12904) | 💡 |
-| 06 | [2285](http://www.acmicpc.net/problem/2285) | [우체국](http://www.acmicpc.net/problem/2285) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/2285) | 💡 |
+| 04 | [1931](http://www.acmicpc.net/problem/1931) | [회의실 배정](http://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/1931) | 💡 |
+| 05 | [11000](http://www.acmicpc.net/problem/11000) | [강의실 배정](http://www.acmicpc.net/problem/11000) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/11000) | 💡 |
+| 06 | [12904](http://www.acmicpc.net/problem/12904) | [A와 B](http://www.acmicpc.net/problem/12904) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/12904) | 💡 |
+| 07 | [2285](http://www.acmicpc.net/problem/2285) | [우체국](http://www.acmicpc.net/problem/2285) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/2285) | 💡 |
 
 
 <br>
 
->### ⛓️‍💥분할 정복
+>### ⛓️‍💥 분할 정복
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [2630](http://www.acmicpc.net/problem/2630) | [색종이 만들기](http://www.acmicpc.net/problem/2630) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Devide_and_Conquer/2630) | 💡 |
 
 <br>
 
-## 💻프로그래머스
+## 💻 프로그래머스
 
->### 🗂️큐/스택
+>### 🗂️ 큐/스택
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Queue%2CStack) | 💡 |
