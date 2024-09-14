@@ -75,7 +75,7 @@ $C$의 원소를 차례대로 queuestack에 삽입했을 때의 리턴값을 공
   
   <summary> 
   
-  ## 🎈 참고
+  ## 🎈참고
   </summary>
 <br>
 
