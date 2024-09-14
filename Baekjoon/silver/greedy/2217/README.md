@@ -22,11 +22,3 @@
 >첫째 줄에 답을 출력한다.
 
 <br><br>
-
-<details>
-  <summary>🎈</summary>
-  <br>
-  
-</details>
-
-<br><br>
