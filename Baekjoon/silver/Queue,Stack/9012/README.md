@@ -22,10 +22,15 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
 
-  >[프로그래머스 동일 문제](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Stack)
+  >[프로그래머스 동일 문제](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack)
 </details>
 
 <br><br>
