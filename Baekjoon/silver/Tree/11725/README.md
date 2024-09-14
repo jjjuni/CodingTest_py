@@ -20,7 +20,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+
+  <summary> 
+  
+  ## 🎈참고
+  </summary>
   <br>
 
 >파이썬의 기본 재귀 한계 = 100회
