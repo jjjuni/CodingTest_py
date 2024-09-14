@@ -4,7 +4,7 @@
 
 <br>
 
-## 📖문제
+## 📖 문제
 >정수를 저장하는 스택을 구현한 다음, 입력으로 주어지는 명령을 처리하는 프로그램을 작성하시오.
 >
 >명령은 총 다섯 가지이다.
@@ -17,7 +17,7 @@
 
 <br>
 
-## ⌨️입력
+## ⌨️ 입력
 >첫째 줄에 명령의 수 N이 주어진다. (1 ≤ N ≤ 1,000,000)
 >
 >둘째 줄부터 N개 줄에 명령이 하나씩 주어진다.
@@ -26,7 +26,7 @@
 
 <br>
 
-## 💻출력
+## 💻 출력
 >출력을 요구하는 명령이 주어질 때마다 명령의 결과를 한 줄에 하나씩 출력한다.
 
 <br><br>
@@ -36,7 +36,7 @@
   
   <summary> 
   
-  ##🎈 참고
+  ## 🎈 참고
   </summary>
   <br>
 
@@ -57,7 +57,7 @@
 
   <br>
 
-## 🪄참고 자료
+## 🪄 참고 자료
 >1. [[Python 문법] 파이썬 입력 받기(sys.stdin.readline)](https://velog.io/@yeseolee/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5-%EC%A0%95%EB%A6%ACsys.stdin.readline)
 >
 >2. [[Python] input보다 sys.stdin.readline의 처리 속도가 빠른 이유는?](https://green-leaves-tree.tistory.com/12)
