@@ -30,11 +30,3 @@
 >강호가 받을 수 있는 팁의 최댓값을 출력한다.
 
 <br><br>
-
-<details>
-  <summary>🎈</summary>
-  <br>
-  
-</details>
-
-<br><br>
