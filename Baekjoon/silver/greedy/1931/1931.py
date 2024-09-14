@@ -9,7 +9,7 @@ result = []                     # [회의 종료 시간, 겹치지 않는 다음
 for i in range(N):
     timetable.append(list(map(int, sys.stdin.readline().split())))
 
-timetable.sort(key=lambda x: (x[1], x[0]))            # 종료 시간 오름차순으로 정렬
+timetable.sort(key=lambda x: (x[1], x[0]))            # 종료 시간 오름차순 정렬 (종료 시간이 같다면 시작 시간 오름차순 정렬)
 
 result.append(timetable[0][1])
 
