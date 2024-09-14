@@ -26,7 +26,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
   
   >반복문 안에서 <code>pop()</code> 사용 시 시간복잡도가 O(n<sup>2</sup>) 으로 위 문제에서는 시간 초과가 뜸
@@ -49,7 +53,7 @@
   >
   >...중략
   >```
-  >위와 같이 deque를 사용하여 queue를 이용해야 함
+  >위와 같이 deque를 사용해야 함
 
   <br><br>
 
