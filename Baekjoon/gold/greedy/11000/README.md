@@ -3,7 +3,7 @@
 # 🛠️ [11000 강의실 배정](http://www.acmicpc.net/problem/11000) <img height="27px" width="27px" src="https://static.solved.ac/tier_small/11.svg"/>
 <br>
 
-## 📖문제
+## 📖 문제
 >수강신청의 마스터 김종혜 선생님에게 새로운 과제가 주어졌다. 
 >
 >김종혜 선생님한테는 Si에 시작해서 Ti에 끝나는 N개의 수업이 주어지는데, 최소의 강의실을 사용해서 모든 수업을 가능하게 해야 한다. 
@@ -14,14 +14,14 @@
 
 <br><br>
 
-## ⌨️입력
+## ⌨️ 입력
 >첫 번째 줄에 N이 주어진다. (1 ≤ N ≤ 200,000)
 >
 >이후 N개의 줄에 S<sub>i</sub>, T<sub>i</sub>가 주어진다. (0 ≤ S<sub>i</sub> < T<sub>i</sub> ≤ 10<sup>9</sup>)
 
 <br>
 
-## 💻출력
+## 💻 출력
 >강의실의 개수를 출력하라.
 
 <br><br>
@@ -34,7 +34,7 @@
   </summary>
   <br>
   
-## 🗂️파이썬 Heapq
+## 🗂️ 파이썬 Heapq
 > ### 1. <code>heap</code> 이란?
 > * 우선순위 큐를 위해 만들어진 자료구조로, 완전 이진트리의 일종
 > * 여러 값 중 최대/최소 값을 빠르게 찾아내도록 만들어진 반정렬 상태
@@ -54,7 +54,7 @@
 
 <br>
 
-## 📄로직
+## 📄 로직
 > A강의가 B강의보다 먼저 시작 할 때
 > * (B강의 시작 시간) ≥ (A강의 종료 시간) -> 겹치지 않는 강의
 > * (B강의 시작 시간) < (A강의 종료 시간) -> 겹치는 강의
@@ -79,7 +79,7 @@
 
 
 
-## 🪄참고자료
+## 🪄 참고 자료
 >[파이썬으로 데이터 정렬하기 : sort(), sorted(). key](https://rnrmffj.tamchart.com/74)
 >
 >[[파이썬]sorted() 이해 및 활용법 (key 매개변수 사용법)](https://gusugi.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-sorted-%ED%95%A8%EC%88%98-%EC%9D%B4%ED%95%B4-%EB%B0%8F-%ED%99%9C%EC%9A%A9%EB%B2%95-key-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%99%9C%EC%9A%A9%EB%B2%95)
