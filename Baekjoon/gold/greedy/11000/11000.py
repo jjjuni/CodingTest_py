@@ -13,7 +13,7 @@ for i in range(N):
     inf[i].append(a)
     inf[i].append(b)
 
-inf.sort(key=lambda x: (x[0]))                      # 종료시간 순으로 정렬
+inf.sort(key=lambda x: (x[0]))                      # 시작시간 순으로 정렬
 
 heapq.heappush(heap, inf[0][1])                     # heap에 첫번째 강의 종료시간 push
 
