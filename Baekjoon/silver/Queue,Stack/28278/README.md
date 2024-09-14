@@ -32,7 +32,12 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
 
   ><code>input()</code> 함수는 한글자씩 버퍼에 담는과정과 문자열을 변환하는 과정때문에 속도가 느려짐
