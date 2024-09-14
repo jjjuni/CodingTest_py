@@ -23,7 +23,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
   
 ## 📄로직
