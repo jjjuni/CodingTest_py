@@ -54,7 +54,9 @@
 | 02 | [1758](http://www.acmicpc.net/problem/1758) | [알바생 강호](http://www.acmicpc.net/problem/1758) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/1758) | 💡 |
 | 03 | [11047](http://www.acmicpc.net/problem/11047) | [동전 0](http://www.acmicpc.net/problem/11047) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/greedy/11047) | 💡 |
 | 04 | [11000](http://www.acmicpc.net/problem/11000) | [강의실 배정](http://www.acmicpc.net/problem/11000) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/11000) | 💡 |
-| 05 | [2285](http://www.acmicpc.net/problem/2285) | [우체국](http://www.acmicpc.net/problem/2285) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/2285) | 💡 |
+| 05 | [12904](http://www.acmicpc.net/problem/12904) | [A와 B](http://www.acmicpc.net/problem/12904) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/12904) | 💡 |
+| 06 | [2285](http://www.acmicpc.net/problem/2285) | [우체국](http://www.acmicpc.net/problem/2285) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/2285) | 💡 |
+
 
 <br>
 
