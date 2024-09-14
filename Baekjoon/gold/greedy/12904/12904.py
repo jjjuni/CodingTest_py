@@ -6,7 +6,7 @@ def rmv_A(a):
     return str
 
 def rmv_B(a):
-    str = "".join(reversed(a[:len(a)-1]))
+    str = "".join(reversed(a[:len(a)-1]))           # 문자열 뒤집기
     return str
 
 while len(S) != len(T):
