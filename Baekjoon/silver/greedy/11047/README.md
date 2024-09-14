@@ -22,11 +22,3 @@
 >첫째 줄에 K원을 만드는데 필요한 동전 개수의 최솟값을 출력한다.
 
 <br><br>
-
-<details>
-  <summary>🎈</summary>
-  <br>
-  
-</details>
-
-<br><br>
