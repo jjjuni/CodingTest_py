@@ -32,7 +32,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
   
   >리스트 추출
