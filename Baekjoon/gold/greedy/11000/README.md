@@ -77,7 +77,7 @@
 > 5. 겹치지 않는다면 <code>heap</code>에서 끝난 강의 <code>pop()</code> 및 현재 강의 <code>push</code>
 > 6. $N$번 반복 후 <code>len(heap)</code> 출력
 
-
+<br>
 
 ## 🪄 참고 자료
 >[파이썬으로 데이터 정렬하기 : sort(), sorted(). key](https://rnrmffj.tamchart.com/74)
