@@ -35,7 +35,11 @@
 <br><br>
 
 <details>
-  <summary>🎈</summary>
+  
+  <summary> 
+  
+  ## 🎈 참고
+  </summary>
   <br>
 
 >  주어진 문자열에 대한 결과 값을 계산하는 함수 <code>solution()</code>
