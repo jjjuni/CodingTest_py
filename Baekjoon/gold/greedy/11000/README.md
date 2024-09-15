@@ -85,6 +85,8 @@
 >[[파이썬]sorted() 이해 및 활용법 (key 매개변수 사용법)](https://gusugi.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-sorted-%ED%95%A8%EC%88%98-%EC%9D%B4%ED%95%B4-%EB%B0%8F-%ED%99%9C%EC%9A%A9%EB%B2%95-key-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%99%9C%EC%9A%A9%EB%B2%95)
 >
 >[[자료구조] 파이썬 힙큐(heapq) 모듈로 힙(heap) 다루기](https://velog.io/@yeonsubaek/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%9E%99%ED%81%90heapq-%EB%AA%A8%EB%93%88%EB%A1%9C-%ED%9E%99heap-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+>
+>[힙 (최소 힙, 최대 힙)](https://velog.io/@jsbryan/%ED%9E%99-%EC%B5%9C%EC%86%8C-%ED%9E%99-%EC%B5%9C%EB%8C%80-%ED%9E%99)
 
 </details>
 
