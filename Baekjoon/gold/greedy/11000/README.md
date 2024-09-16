@@ -88,7 +88,7 @@
 >
 >[힙 (최소 힙, 최대 힙)](https://velog.io/@jsbryan/%ED%9E%99-%EC%B5%9C%EC%86%8C-%ED%9E%99-%EC%B5%9C%EB%8C%80-%ED%9E%99)
 >
->[힙 관련 정리(Git)](https://github.com/jjjuni/CodingTest_py/blob/main/Structure/Heap/README.md)
+>[힙 관련 정리(Git)](https://github.com/jjjuni/CodingTest_py/blob/main/Structure/Heap)
 </details>
 
 <br><br>
