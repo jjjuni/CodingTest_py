@@ -18,12 +18,11 @@ inf.sort(key=lambda x: (x[0]))                      # 시작시간 순으로 정
 heapq.heappush(heap, inf[0][1])                     # heap에 첫번째 강의 종료시간 push
 
 for i in range(1, N):
-    tmp = heapq.heappop(heap)
-    if inf[i][0] >= tmp:
+    if inf[i][0] >= heap[0]:
+        heapq.heappop(heap)
         heapq.heappush(heap, inf[i][1])
     else:
         heapq.heappush(heap, inf[i][1])
-        heapq.heappush(heap, tmp)
 
 print(len(heap))
 
