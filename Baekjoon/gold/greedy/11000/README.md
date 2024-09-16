@@ -87,7 +87,8 @@
 >[[자료구조] 파이썬 힙큐(heapq) 모듈로 힙(heap) 다루기](https://velog.io/@yeonsubaek/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%9E%99%ED%81%90heapq-%EB%AA%A8%EB%93%88%EB%A1%9C-%ED%9E%99heap-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 >
 >[힙 (최소 힙, 최대 힙)](https://velog.io/@jsbryan/%ED%9E%99-%EC%B5%9C%EC%86%8C-%ED%9E%99-%EC%B5%9C%EB%8C%80-%ED%9E%99)
-
+>
+>[힙 관련 정리(Git)](https://github.com/jjjuni/CodingTest_py/blob/main/Structure/Heap/README.md)
 </details>
 
 <br><br>
