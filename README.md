@@ -39,7 +39,7 @@
 
 <br>
 
->### 📈 그래프
+>### 📊 그래프
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [5567](http://www.acmicpc.net/problem/5567) | [결혼식](http://www.acmicpc.net/problem/5567) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Graph/5567) | 💡 |
@@ -73,6 +73,11 @@
 >### 🗂️ 큐/스택
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack) | 💡 |
+| 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8) | 💡 |
+
+>### 📈 정렬
+| 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=python3) | *Level2* | [바로가기]([https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)) | 💡 |
 
 <br>
