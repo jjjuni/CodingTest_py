@@ -58,6 +58,12 @@
 | 06 | [12904](http://www.acmicpc.net/problem/12904) | [A와 B](http://www.acmicpc.net/problem/12904) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/12904) | 💡 |
 | 07 | [2285](http://www.acmicpc.net/problem/2285) | [우체국](http://www.acmicpc.net/problem/2285) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/greedy/2285) | 💡 |
 
+<br>
+
+>### 📈 정렬
+| 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [1083](http://www.acmicpc.net/problem/1083) | [소트](http://www.acmicpc.net/problem/1083) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/sort/1083) | 💡 |
 
 <br>
 
@@ -75,15 +81,13 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8) | 💡 |
 
+<br>
+
 >### 📈 정렬
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/%EB%8D%94%20%EB%A7%B5%EA%B2%8C) | 💡 |
 | 01 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98) | 💡 |
-| 01 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/H-index) | 💡 |
-
-
-
-
+| 02 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/H-index) | 💡 |
 
 <br>
