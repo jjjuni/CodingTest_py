@@ -70,7 +70,7 @@
 >### ⛓️‍💥 분할 정복
 | 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | [2630](http://www.acmicpc.net/problem/2630) | [색종이 만들기](http://www.acmicpc.net/problem/2630) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/%EB%8D%94%20%EB%A7%B5%EA%B2%8C) | 💡 |
+| 00 | [2630](http://www.acmicpc.net/problem/2630) | [색종이 만들기](http://www.acmicpc.net/problem/2630) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Devide_and_Conquer/2630) | 💡 |
 
 <br>
 
