@@ -3,7 +3,7 @@ def solution(citations):
 
     citations.sort(reverse=True)
 
-    for i in range(len(citations)):
+    for _ in range(len(citations)):
         if citations[h_index] < h_index + 1:
             break
         h_index += 1
