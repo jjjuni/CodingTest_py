@@ -1,16 +1,14 @@
-import sys
-sys.setrecursionlimit(10**6)
-
-
 N, K = map(int, (input().split()))
 
-coin_dictionary = {}
-coin_list = []
+coin = []
+dp = [0] * 10001
+dp[0] = 1
 
 for i in range(N):
-    num = int(input())
-    coin_dictionary[num] = 0
-    coin_list.append(num)
+    coin.append(int(input()))
 
-coin_dictionary[K] = 0
-coin_list.sort()
+for i in coin:
+    for j in range(i, K + 1):
+        dp[j] += dp[j - i]
+
+print(dp[K])
