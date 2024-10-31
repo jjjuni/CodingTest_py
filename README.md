@@ -15,7 +15,7 @@
 | 03 | [2839](http://www.acmicpc.net/problem/2839) | [설탕 배달](http://www.acmicpc.net/problem/2839) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Dynamic_Programming/2839) | 💡 |
 | 04 | [17626](http://www.acmicpc.net/problem/17626) | [Four Squares](http://www.acmicpc.net/problem/17626) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/silver/Dynamic_Programming/17626) | ❌ |
 | 05 | [2293](http://www.acmicpc.net/problem/2293) | [동전 1](http://www.acmicpc.net/problem/2293) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/Dynamic_Programming/2293) | 💡 |
-| 06 | [2293](http://www.acmicpc.net/problem/1106) | [호텔](http://www.acmicpc.net/problem/1106) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/Dynamic_Programming/2293) | 💡 |
+| 06 | [2293](http://www.acmicpc.net/problem/1106) | [호텔](http://www.acmicpc.net/problem/1106) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Baekjoon/gold/Dynamic_Programming/1106) | 💡 |
 
 <br>
 
