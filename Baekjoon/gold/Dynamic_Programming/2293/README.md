@@ -38,6 +38,16 @@
 >j = N<sub>i</sub>원부터 탐색을 하며 dp[j] += dp[j - N<sub>i</sub>]
 >
 >모든 동전에 대해 해당 연산 반복
+>```
+>입력 예시
+>3 10
+>1
+>2
+>5
+>```
+>![스크린샷 2024-10-31 174403](https://github.com/user-attachments/assets/ab5f5ded-07e4-4718-ace9-9c4e08664e6e)
+>
+>위 그림과 같이 각각의 코인으로 만들 수 있는 경우의 수를 추가해나가며 `dp[]` 갱신
 
 </details>
 
