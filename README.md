@@ -97,6 +97,6 @@
 >### 📝 PCCP
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | [붕대 감기](https://school.programmers.co.kr/learn/courses/19344/lessons/242258?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Sort/%EB%8D%94%20%EB%A7%B5%EA%B2%8C) | 💡 |
+| 00 | [붕대 감기](https://school.programmers.co.kr/learn/courses/19344/lessons/242258?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP/%EB%B6%95%EB%8C%80%20%EA%B0%90%EA%B8%B0) | 💡 |
 
 <br>
