@@ -94,9 +94,20 @@
 
 <br>
 
->### 📝 PCCP
+>### 📝 PCCP 기출
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [붕대 감기](https://school.programmers.co.kr/learn/courses/19344/lessons/242258?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP/%EB%B6%95%EB%8C%80%20%EA%B0%90%EA%B8%B0) | 💡 |
+
+<br>
+
+>### 📝 PCCP 대비
+| 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/1.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9) | 💡 |
+| 01 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/2.%20%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0) | 💡 |
+| 02 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/3.%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98) | 💡 |
+| 03 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/4.%20%EC%9D%98%EC%83%81) | 💡 |
+| 04 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880?language=python3) | *Level0* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/5.%20%ED%8A%B9%EC%9D%B4%ED%95%9C%20%EC%A0%95%EB%A0%AC) | 💡 |
 
 <br>
