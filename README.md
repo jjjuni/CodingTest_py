@@ -110,5 +110,6 @@
 | 03 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/4.%20%EC%9D%98%EC%83%81) | 💡 |
 | 04 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880?language=python3) | *Level0* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/1%EC%9D%BC%EC%B0%A8/5.%20%ED%8A%B9%EC%9D%B4%ED%95%9C%20%EC%A0%95%EB%A0%AC) | 💡 |
 | 05 | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/2%EC%9D%BC%EC%B0%A8/%EC%9D%B4%EC%9B%83%ED%95%9C%20%EC%B9%B8) | 💡 |
+| 06 | [실습용 로봇](https://campus.programmers.co.kr/tryouts/175743/challenges?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/2%EC%9D%BC%EC%B0%A8/%EC%8B%A4%EC%8A%B5%EC%9A%A9%20%EB%A1%9C%EB%B4%87) | 💡 |
 
 <br>
