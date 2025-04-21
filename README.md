@@ -112,5 +112,6 @@
 | 05 | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/2%EC%9D%BC%EC%B0%A8/%EC%9D%B4%EC%9B%83%ED%95%9C%20%EC%B9%B8) | 💡 |
 | 06 | [실습용 로봇](https://campus.programmers.co.kr/tryouts/175743/challenges?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/2%EC%9D%BC%EC%B0%A8/%EC%8B%A4%EC%8A%B5%EC%9A%A9%20%EB%A1%9C%EB%B4%87) | 💡 |
 | 07 | [게임 맵 최단거리](https://campus.programmers.co.kr/tryouts/175956/challenges?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/3%EC%9D%BC%EC%B0%A8/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) | 💡 |
+| 08 | [타겟 넘버](https://campus.programmers.co.kr/tryouts/175957/challenges?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/PCCP%20%EB%8C%80%EB%B9%84/3%EC%9D%BC%EC%B0%A8/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84) | 💡 |
 
 <br>
