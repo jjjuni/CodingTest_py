@@ -82,7 +82,7 @@
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8) | 💡 |
-| 01 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%201/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84) | 💡 |
+| 01 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | *Level1* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%201/Queue%2CStack/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84) | 💡 |
 
 <br>
 
