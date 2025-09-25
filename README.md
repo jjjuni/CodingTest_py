@@ -85,6 +85,7 @@
 | 01 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=python3#) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8) | 💡 |
 | 02 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) | 💡 |
 | 03 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) | 💡 |
+| 04 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | *Level2* | [바로가기](https://github.com/jjjuni/CodingTest_py/tree/main/Progammers/Level%202/Queue%2CStack/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) | 💡 |
 
 <br>
 
