@@ -78,6 +78,12 @@
 
 ## 💻 프로그래머스
 
+ >### 💭 동적 계획
+| 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898?language=python3) | *Level3* | [바로가기](https://github.com/jjjuni/CodingTest_py/blob/main/Progammers/Level%203/Dynamic%20Programming/%EB%93%B1%EA%B5%A3%EA%B8%B8/README.md) | 💡 |
+
+
 >### 🗂️ 큐/스택
 | 순번 | 문제 이름 | 난이도 | 풀이 | 완료 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
